@@ -18,7 +18,7 @@ namespace ConsoleApp19
             Console.WriteLine("Hello World!");
 
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Mpampis!");
 
             Console.WriteLine("Peinasa!");
             
